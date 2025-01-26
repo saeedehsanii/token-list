@@ -1,0 +1,8 @@
+{
+  "name": "Apex Xtreme",
+  "symbol": "AXYB",
+  "uri": "https://gateway.pinata.cloud/ipfs/your-image-ipfs-url",
+  "address": "YourTokenMintAddress",
+  "chainId": 101,
+  "decimals": 9
+}
